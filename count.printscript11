@@ -1,0 +1,7 @@
+set count 1
+while 1
+  print "YER GAY LVL: "
+  print count
+  print "\n"
+  inc count 1
+end
