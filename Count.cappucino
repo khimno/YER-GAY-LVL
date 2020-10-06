@@ -1,6 +1,0 @@
-if Count {
-    static bool main(Integer[] args) {
-    	while(char i = 1;; i++)
-        System.out.println("YER GAY LVL: " + i);
-    }
-}
